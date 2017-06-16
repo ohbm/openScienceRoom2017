@@ -27,7 +27,8 @@ The Open Science special interest group has organized an “Open Science Room”
 |		SCT: Spinal Cord Toolbox, an open-source software for processing MRI, fMRI and DTI of the spinal cord | Julien Cohen-Adad | Thu, June 29 | 12:45- 13:15 |        
 |		Simulating the volume of activated tissue for electrical and magnetic stimulation using SimNIBS | Alex Opitz | Thu, June 29 | 13:15- 13:45 |        
 |		Open science resources for mapping the human connectome: C-PAC and the Preprocessed Connectomes Project | Cameron Craddock | Thu, June 29 | 13:45- 14:15 |        
-|		Quality control and preprocessing using MRIQC and FMRIPREP | Oscar Esteban | Thu, June 29 | 14:15- 14:45 |     	
+|		Quality control and preprocessing using MRIQC and FMRIPREP | Oscar Esteban | Thu, June 29 | 14:15- 14:45 |  
+
 *Organizers:*
  * **Cameron Craddock** Nathan Kline Institute and Child Mind Institute, New York, United States
  * **Pierre Bellec** Centre de recherche Institut universitaire de gériatrie de Montréal, Department of Computer Science and Operations Research, University of Montreal, Montreal, Quebec, Canada 
