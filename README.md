@@ -11,7 +11,7 @@ The Open Science special interest group has organized an “Open Science Room”
 | Mining the neuroimaging literature with neuroSynth.org | Alejandro de la Vega | Mon, June 26 |  13:15- 13:45 |
 | What's new in Freesurfer | Lilla Zollei | Mon, June 26 |  13:45- 14:15 |        
 | Robust & reproducible pipelines for functional connectomics with niak.simexp-lab.org | Pierre Bellec | Mon, June 26 |  14:15- 14:45 |   
-| Report on recent and future activities of the SIG - open discussion with the community. | open SIG committee | Mon, June 26 | 17:30- 18:30 |
+| Report on recent and future activities of the SIG and COBIDAS - open discussion with the community. | open SIG committee | Mon, June 26 | 17:30- 18:30 |
 | Report on hackathon projects | Hackathon team | Tues, June 27 | 10:30- 11:45 |
 | Collaborative Informatics and Neuroimaging Suite Toolkit for Anonymous Computation (COINSTAC) | Vince Calhoun | Tues, June 27 |  12:45- 13:25 |        
 |	Science in the Cloud (SIC): A use-case in MRI connectomics | Greg Kiar | Tues, June 27 |  13:25- 14:05 |        
@@ -20,7 +20,6 @@ The Open Science special interest group has organized an “Open Science Room”
 | Open communication: How would we communicate science if there were no practical constraints? | Tal Yarkoni | Tues, June 27 | 17:15- 17:30 |
 | Open communication: Openly talking about scientists communicating science to non-scientists | Kevin Weiner | Tues, June 27 | 17:30- 17:45 |
 | Open communication: Increasing the SNR in science communication |	Nikola Stikov | Tues, June 27 | 17:45- 18:00 |
-| COBIDAS: Updates and solicitation of ideas for future directions |	Tom Nichols | Tues, June 27 | 18:00-18:15 |
 |	Statistical power calculation in neuroimaging using neuropowertools.org and fMRIpower | Joke Durnez and Jeannette Mumford | Thu, June 29 | 10:30-11:00 |        
 |		Organize your neuroimaging and behavioural data with bids.neuroimaging.io | Cyril Pernet | Thu, June 29 | 11:00-11:30 |        
 |		Sharing your brain maps with neurovault.org | Chris Gorgolewski | Thu, June 29 | 11:30-12:00 |        
