@@ -1,5 +1,5 @@
  
-# 2017 OHBM  "Open science room”
+# 2017 HBM  "Open science room”
 
 The Open Science special interest group has organized an “Open Science Room”  (Room 210 and Worksping Foyer are on level 2) that will be available throughout the Human Brain Mapping conference 8:00AM - 7:00PM to support open collaboration. Come by for demonstrations of open science tools, to learn about how you can support open science, or to find a space to interact with your colleagues. 
 
