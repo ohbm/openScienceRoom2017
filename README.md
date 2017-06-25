@@ -6,7 +6,7 @@ The Open Science special interest group has organized an “Open Science Room”
 |  OSR Schedule | Speaker | Date | Time Slot |
 |---------------|---------|------|-----------|
 | Brain hacking 101 - hands on introduction | Greg Kiar | Sunday, June 25 | 09:00 - 12:00 | 
-| Open source tools for analysis of diffusion MRI in Python (DIPY) | Ariel Rokem | Sunday, June 25 | 13:00 - 4:30 | 
+| Open source tools for analysis of diffusion MRI in Python (DIPY) ([slides](https://arokem.github.io/2017-ohbm-dipy-slides), [noteboooks](https://github.com/datacarpentry/python-neuroimaging-lesson)| Ariel Rokem | Sunday, June 25 | 13:00 - 4:30 | 
 | The Neuroimaging Informatics Tools and Resources Clearinghouse nitrc.org | Nina Preuss | Mon, June 26 | 10:20-10:35 |
 | LORIS neuroimaging database | Samir Das | Mon, June 26 |  10:35-10:50 |        
 | GPU enabled image processing and non-parametric inference using BROCCOLI | Anders Eklund | Mon, June 26 |  12:45- 13:15 |   
