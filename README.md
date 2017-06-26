@@ -10,13 +10,13 @@ The Open Science special interest group has organized an “Open Science Room”
 | The Neuroimaging Informatics Tools and Resources Clearinghouse nitrc.org | Nina Preuss | Mon, June 26 | 10:20-10:35 |
 | LORIS neuroimaging database | Samir Das | Mon, June 26 |  10:35-10:50 |        
 | GPU enabled image processing and non-parametric inference using BROCCOLI | Anders Eklund | Mon, June 26 |  12:45- 13:15 |   
-| Mining the neuroimaging literature with neuroSynth.org | Alejandro de la Vega | Mon, June 26 |  13:15- 13:45 |
+|	Science in the Cloud (SIC): A use-case in MRI connectomics | Greg Kiar | Mon, June 26 |  13:15- 13:45 |
 | What's new in Freesurfer | Lilla Zollei | Mon, June 26 |  13:45- 14:15 |        
 | Robust & reproducible pipelines for functional connectomics with niak.simexp-lab.org | Pierre Bellec | Mon, June 26 |  14:15- 14:45 |   
 | Report on recent and future activities of the SIG and COBIDAS - open discussion with the community. | open SIG committee | Mon, June 26 | 17:30- 18:30 |
 | Report on hackathon projects | Hackathon team | Tues, June 27 | 10:30- 11:45 |
 | Collaborative Informatics and Neuroimaging Suite Toolkit for Anonymous Computation (COINSTAC) | Vince Calhoun | Tues, June 27 |  12:45- 13:25 |        
-|	Science in the Cloud (SIC): A use-case in MRI connectomics | Greg Kiar | Tues, June 27 |  13:25- 14:05 |        
+| Mining the neuroimaging literature with neuroSynth.org | Alejandro de la Vega | Tues, June 27 |  13:25- 14:05 |
 |	Distributions for efficient and reproducible research (NeuroDebian/DataLad) | Yaroslav Halchenko | Tues, June 27 |  14:05- 14:45 |        
 | Open communication: Tweeting for Science: enhancing your research network in 140 characters | Kirstie Whitaker | Tues, June 27 | 17:00- 17:15 |
 | Open communication: How would we communicate science if there were no practical constraints? | Tal Yarkoni | Tues, June 27 | 17:15- 17:30 |
