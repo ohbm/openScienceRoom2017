@@ -10,7 +10,7 @@ The Open Science special interest group has organized an “Open Science Room”
 | The Neuroimaging Informatics Tools and Resources Clearinghouse nitrc.org | Nina Preuss | Mon, June 26 | 10:20-10:35 |
 | LORIS neuroimaging database | Samir Das | Mon, June 26 |  10:35-10:50 |        
 | GPU enabled image processing and non-parametric inference using BROCCOLI | Anders Eklund | Mon, June 26 |  12:45- 13:15 |   
-|	Science in the Cloud (SIC): A use-case in MRI connectomics | Greg Kiar | Mon, June 27 |  13:15- 13:45 |
+|	Science in the Cloud (SIC): A use-case in MRI connectomics | Greg Kiar | Mon, June 26 |  13:15- 13:45 |
 | What's new in Freesurfer | Lilla Zollei | Mon, June 26 |  13:45- 14:15 |        
 | Robust & reproducible pipelines for functional connectomics with niak.simexp-lab.org | Pierre Bellec | Mon, June 26 |  14:15- 14:45 |   
 | Report on recent and future activities of the SIG and COBIDAS - open discussion with the community. | open SIG committee | Mon, June 26 | 17:30- 18:30 |
