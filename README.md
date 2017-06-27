@@ -18,8 +18,8 @@ The Open Science special interest group has organized an “Open Science Room”
 | Collaborative Informatics and Neuroimaging Suite Toolkit for Anonymous Computation (COINSTAC) | Vince Calhoun | Tues, June 27 |  12:45- 13:25 |        
 | Mining the neuroimaging literature with neuroSynth.org | Alejandro de la Vega | Tues, June 27 |  13:25- 14:05 |
 |	Distributions for efficient and reproducible research (NeuroDebian/DataLad) | Yaroslav Halchenko | Tues, June 27 |  14:05- 14:45 |        
-| Open communication: Tweeting for Science: enhancing your research network in 140 characters | Kirstie Whitaker | Tues, June 27 | 17:00- 17:15 |
-| Open communication: How would we communicate science if there were no practical constraints? | Tal Yarkoni | Tues, June 27 | 17:15- 17:30 |
+| Report on recent and future activities of COBIDAS | Tom Nichols | Tues, June 27 | 17:00- 17:15 |
+| Open communication: Tweeting for Science: enhancing your research network in 140 characters | Kirstie Whitaker | Tues, June 27 | 17:15- 17:30 |
 | Open communication: Openly talking about scientists communicating science to non-scientists | Kevin Weiner | Tues, June 27 | 17:30- 17:45 |
 | Open communication: Increasing the SNR in science communication |	Nikola Stikov | Tues, June 27 | 17:45- 18:00 |
 |	Statistical power calculation in neuroimaging using neuropowertools.org and fMRIpower | Joke Durnez and Jeannette Mumford | Thu, June 29 | 10:30-11:00 |        
