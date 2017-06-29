@@ -22,6 +22,7 @@ The Open Science special interest group has organized an “Open Science Room”
 | Open communication: Tweeting for Science: enhancing your research network in 140 characters | Kirstie Whitaker | Tues, June 27 | 17:15- 17:30 |
 | Open communication: Openly talking about scientists communicating science to non-scientists | Kevin Weiner | Tues, June 27 | 17:30- 17:45 |
 | Open communication: Increasing the SNR in science communication |	Nikola Stikov | Tues, June 27 | 17:45- 18:00 |
+| Informal Chat & Brainstorm: Questions & Controversies in Time-Varying Brain Connectivity |	Vince Calhoun | Wed, June 28 | 15:45- 16:15 |
 |	Statistical power calculation in neuroimaging using neuropowertools.org and fMRIpower | Joke Durnez and Jeannette Mumford | Thu, June 29 | 10:30-11:00 |        
 |		Organize your neuroimaging and behavioural data with bids.neuroimaging.io | Cyril Pernet | Thu, June 29 | 11:00-11:30 |        
 |		Sharing your brain maps with neurovault.org | Chris Gorgolewski | Thu, June 29 | 11:30-12:00 |        
